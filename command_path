@@ -1,0 +1,5 @@
+picard:
+  java -jar $PICARD
+
+on the PATH:
+  samtools
